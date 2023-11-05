@@ -3,7 +3,7 @@ import streamlit as st
 st.set_page_config(page_title="BookQuester", page_icon="📖", layout="wide")
 st.header("📖BookQuester")
 
-topics = st.text_input('Enter topic :')
+topics = st.text_input('Enter topic :',)
 
 uploaded_file = st.file_uploader(
     "Upload a pdf, docx, or txt file",
