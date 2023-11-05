@@ -1,0 +1,93 @@
+
+Computer Networking is the practice of connecting computers together to enable communication and data exchange between them. In general, Computer Network is a collection of two or more computers. It helps users to communicate more easily. In this article, we are going to discuss the basics which everyone must know before going deep into Computer Networking. 
+Computer Networking
+How Does a Computer Network Work?
+Basics building blocks of a Computer network are Nodes and Links. A Network Node can be illustrated as Equipment for Data Communication like a Modem, Router, etc., or Equipment of a Data Terminal like connecting two computers or more. Link in Computer Networks can be defined as wires or cables or free space of wireless networks.
+The working of Computer Networks can be simply defined as rules or protocols which help in sending and receiving data via the links which allow Computer networks to communicate. Each device has an IP Address, that helps in identifying a device.
+Basic Terminologies of Computer Networks
+
+Network: A network is a collection of computers and devices that are connected together to enable communication and data exchange.
+Nodes: Nodes are devices that are connected to a network. These can include computers, Servers, Printers, Routers, Switches, and other devices.
+Protocol: A protocol is a set of rules and standards that govern how data is transmitted over a network. Examples of protocols include TCP/IP, HTTP, and FTP.
+Topology: Network topology refers to the physical and logical arrangement of nodes on a network. The common network topologies include bus, star, ring, mesh, and tree.
+Service Provider Networks: These types of Networks give permission to take Network Capacity and Functionality on lease from the Provider. Service Provider Networks include Wireless Communications, Data Carriers, etc.
+IP Address: An IP address is a unique numerical identifier that is assigned to every device on a network. IP addresses are used to identify devices and enable communication between them.
+DNS: The Domain Name System (DNS) is a protocol that is used to translate human-readable domain names (such as www.google.com) into IP addresses that computers can understand.
+Firewall: A firewall is a security device that is used to monitor and control incoming and outgoing network traffic. Firewalls are used to protect networks from unauthorized access and other security threats.
+
+Types of Enterprise Computer Networks
+
+LAN: A Local Area Network (LAN) is a network that covers a small area, such as an office or a home. LANs are typically used to connect computers and other devices within a building or a campus.
+WAN: A Wide Area Network (WAN) is a network that covers a large geographic area, such as a city, country, or even the entire world. WANs are used to connect LANs together and are typically used for long-distance communication.
+Cloud Networks: Cloud Networks can be visualized with a Wide Area Network (WAN) as they can be hosted on public or private cloud service providers and cloud networks are available if there is a demand. Cloud Networks consist of Virtual Routers, Firewalls, etc.
+
+These are just a few basic concepts of computer networking. Networking is a vast and complex field, and there are many more concepts and technologies involved in building and maintaining networks. Now we are going to discuss some more concepts on Computer Networking.
+
+Open system: A system that is connected to the network and is ready for communication. 
+Closed system: A system that is not connected to the network and can’t be communicated with.
+
+Types of Computer Network Architecture
+Computer Network falls under these broad Categories:
+
+Client-Server Architecture: Client-Server Architecture is a type of Computer Network Architecture in which Nodes can be Servers or Clients. Here, the server node can manage the Client Node Behaviour.
+Peer-to-Peer Architecture: In P2P (Peer-to-Peer) Architecture, there is not any concept of a Central Server. Each device is free for working as either client or server.
+
+Network Devices
+An interconnection of multiple devices, also known as hosts, that are connected using multiple paths for the purpose of sending/receiving data or media. Computer networks can also include multiple devices/mediums which help in the communication between two different devices; these are known as Network devices and include things such as routers, switches, hubs, and bridges. 
+Network Devices
+Network Topology
+The Network Topology is the layout arrangement of the different devices in a network. Common examples include Bus, Star, Mesh, Ring, and Daisy chain. 
+Network Topology
+OSI Model 
+OSI stands for Open Systems Interconnection. It is a reference model that specifies standards for communications protocols and also the functionalities of each layer. The OSI has been developed by the International Organization For Standardization and it is 7 layer architecture. Each layer of OSI has different functions and each layer has to follow different protocols. The 7 layers are as follows: 
+
+Physical Layer
+Data link Layer
+Network Layer
+Transport Layer
+Session Layer
+Presentation Layer
+Application Layer
+
+Protocol
+A protocol is a set of rules or algorithms which define the way how two entities can communicate across the network and there exists a different protocol defined at each layer of the OSI model. A few such protocols are TCP, IP, UDP, ARP, DHCP, FTP, and so on. 
+Unique Identifiers of Network 
+Hostname: Each device in the network is associated with a unique device name known as Hostname. Type “hostname” in the command prompt(Administrator Mode) and press ‘Enter’, this displays the hostname of your machine.  
+HostName
+IP Address (Internet Protocol address):  Also known as the Logical Address, the IP Address is the network address of the system across the network. To identify each device in the world-wide-web, the Internet Assigned Numbers Authority (IANA) assigns an IPV4 (Version 4) address as a unique identifier to each device on the Internet. The length of an IPv4 address is 32 bits, hence, we have 232 IP addresses available. The length of an IPv6 address is 128 bits.Type “ipconfig” in the command prompt and press ‘Enter’, this gives us the IP address of the device. 
+MAC Address (Media Access Control address): Also known as physical address, the MAC Address is the unique identifier of each host and is associated with its NIC (Network Interface Card). A MAC address is assigned to the NIC at the time of manufacturing. The length of the MAC address is: 12-nibble/ 6 bytes/ 48 bits Type “ipconfig/all” in the command prompt and press ‘Enter’, this gives us the MAC address. 
+Port: A port can be referred to as a logical channel through which data can be sent/received to an application. Any host may have multiple applications running, and each of these applications is identified using the port number on which they are running. 
+A port number is a 16-bit integer, hence, we have 216 ports available which are categorized as shown below: 
+
+
+
+
+Port Types
+Range
+
+
+
+
+Well known Ports
+0 – 1023
+
+
+Registered Ports
+1024 – 49151
+
+
+Ephemeral Ports
+49152 – 65535
+
+
+
+
+Number of ports: 65,536 Range: 0 – 65535 Type “netstat -a” in the command prompt and press ‘Enter’, this lists all the ports being used. 
+List of Ports
+Socket: The unique combination of IP address and Port number together is termed a Socket. 
+Other Related Concepts 
+DNS Server: DNS stands for Domain Name System. DNS is basically a server that translates web addresses or URLs (ex: www.google.com) into their corresponding IP addresses. We don’t have to remember all the IP addresses of each and every website. The command ‘nslookup’ gives you the IP address of the domain you are looking for. This also provides information on our DNS Server. \
+Domain IP Address
+ARP: ARP stands for Address Resolution Protocol. It is used to convert an IP address to its corresponding physical address(i.e., MAC Address). ARP is used by the Data Link Layer to identify the MAC address of the Receiver’s machine. 
+RARP: RARP stands for Reverse Address Resolution Protocol. As the name suggests, it provides the IP address of the device given a physical address as input. But RARP has become obsolete since the time DHCP has come into the picture.
+ 
