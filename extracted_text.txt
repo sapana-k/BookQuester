@@ -1,0 +1,51 @@
+sapanakhedkar957@gmail.com Ahmednagar, Maharashtra, India
+Program Institution/Board %/CGPA Year
+B.Tech (Computer Science & Engg.)
+Higher Secondary Education
+Secondary EducationWalchand College of Engineering, Sangli
+Kendriya Vidyalaya MIRC, A.nagar (CBSE)
+Kendriya Vidyalaya MIRC, A.nagar (CBSE)8.3/10
+93.2%
+92.6%2020-2024
+2020
+2018
+sapana-khedkar sapana-k
++91 7620671965
+EducationSapana Balu Khedkar
+Walchand College of Engineering, Sangli
+Key Projects
+(Flutter + Firebase)1.  Saksham - Accessibility Solution for Individuals with Physical Challenges.
+2. Udaan - Empowering Women through Job Opportunities.Developed a mobile application displaying accessible features of buildings on an on-screen map.
+Implemented in-app chat functionality, enabling seamless communication and interaction among app users.
+An informative section, highlighting benefits for PWDs by Gov. and NGOs.
+(Flutter + MongoDB) 
+Created a mobile application that connects housewives and women seeking employment with employers offering
+unskilled/skilled labor opportunities.
+A user-friendly interface that allows job seekers to apply for available job positions.
+An employer's login system, enabling employers to log in and assign job roles to deserving candidates.
+Course Work
+Object Oriented Programming
+Data Structures and Algorithms 
+Technical Skills
+Web Technology: HTML-CSS, NodeJS
+Operating Systems: Linux
+Tools: Git, Adobe XD, Figma, Canva.Programming Language: C, C++, Python
+Database System : Firebase, MySQL, MongoDB
+Framework: Flutter, REactJS 
+Positions of Responsibility
+Creative + Social Head at Google Developer Students Club WCE                                                            (Sept 2022 - Mar 2023)
+Led a team of six members responsible for the creation, production, and distribution of a wide range of posters and
+messages for the promotion of club events.
+Conceptualized and designed badges, t-shirts, and certificates for the club.(Check it out.) UI/UX Team Member at Google Developer Students Club WCE                                                                (Sept 2021 - Mar 2022) 
+Acquired foundational knowledge in UI/UX principles.
+Participated in internal hackathons of the club and made UIs for various projects. (Check it out.)                                           
+Achievements/Awards
+AWS AI ML Scholarship 2023 Recipient  (link)
+Global Top 100 Finalist in Google's Solution Challenge (link)
+Winner of LinuxDiary 3.0 (war games using linux commands) (link)
+Runner up in ACM WCE Hackathon '23 (link)
+Winner in 100m, 200m sprint in Annual Sports Meet WCE '23 
+Others
+Hobbies: Reading, Badminton, Sprinting  Languages: English, Hindi, Marathi.Computer Networks 
+Database Management Systems  Operating Systems 
+Cloud Computing
